@@ -252,10 +252,10 @@ i.fa-th-list {
 
 /* LINE VIEW STYLES */
 
-#product-container {
+.lines #product-container {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 30px;
 }
 
 .lines .product {
@@ -293,7 +293,6 @@ i.fa-th-list {
   align-items: center;
   gap: 20px;
   width: 100%;
-  border-top: 1px solid #8d8ba5;
   padding-top: 20px;
 }
 
